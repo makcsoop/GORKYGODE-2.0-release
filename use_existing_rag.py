@@ -26,7 +26,7 @@ EMBED_MODEL = "text-embedding-3-small"
 
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 DATASET_PATH = "./cultural_objects_mnn.xlsx"
 
